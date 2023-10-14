@@ -1,0 +1,6 @@
+# requirements openpyxl
+numpy 
+openpyxl
+pandas
+ipykernel 
+s
