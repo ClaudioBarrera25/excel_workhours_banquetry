@@ -3,4 +3,3 @@ numpy
 openpyxl
 pandas
 ipykernel 
-s
